@@ -1,0 +1,36 @@
+_repo: Red-Eagle-and-the-Wars-With-the-Creek-Indians-of-Alabama._34677
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34677-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Eggleston, George Cary
+    birthdate: 1839
+    deathdate: 1911
+    gutenberg_agent_id: '8154'
+    url: http://www.gutenberg.org/2009/agents/8154
+    wikipedia: https://en.wikipedia.org/wiki/George_Cary_Eggleston
+description: William "Red Eagle" Weatherford was a Creek (Muscogee) Native American
+  who led the Creek War offensive against the United States. Like many of the high-ranking
+  members of the Creek nation, he was a mixture of Scottish and Creek Indian. His
+  "war name" was Hopnicafutsahia, or "Truth Teller," and was commonly referred to
+  as Lamochattee, or "Red Eagle," by other Creeks. During the Creek Civil War, in
+  February 1813, Weatherford reportedly made a strange prophecy that called for the
+  extermination of English settlers on lands formerly held by Native Americans. He
+  used his "vision" to gather support from various Native American tribes.
+gutenberg_issued: '2010-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34677'
+  lccn: '36030632'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Weatherford, William, approximately 1780-1824'
+- !lcsh 'Creek War, 1813-1814'
+- !lcc 'E011'
+title: Red Eagle and the Wars With the Creek Indians of Alabama.
+url: http://www.gutenberg.org/ebooks/34677
